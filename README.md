@@ -61,7 +61,7 @@ Siga os passos e inclua as informações abaixo:
     <p style="font-weight: bold;">🎨 Layout</p>
 </h1>
 
-## web
+## 🖥️ web
 
 <p align="center">
      <img src="./images/desk1.png"  width="400px">   
@@ -87,7 +87,8 @@ Siga os passos e inclua as informações abaixo:
      <img src="./images/desk8.png"  width="400px">   
      <img src="./images/desk9.png"  width="400px">   
 </p>
-## Mobile
+
+## 📱 Mobile
 
 <p align="center">
      <img src="./images/mobile1.png">  
