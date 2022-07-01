@@ -128,7 +128,7 @@ Siga os passos e inclua as informações abaixo:
 - [styled-components](https://styled-components.com/)
 - [react-icons](https://react-icons.github.io/react-icons)
 - [react-router-dom](https://v5.reactrouter.com/)
-- [material-UI]([https://chakra-ui.com/](https://material.io/design))
+- [material-UI](https://material.io/design)
 
 </div>
 
