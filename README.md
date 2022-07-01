@@ -123,12 +123,12 @@ Siga os passos e inclua as informações abaixo:
 </h1>
 
  <div style="display: inline_block"><br>
-
-- npm
-- styled-components
-- axios
-- react-router-dom
-- material-UI
+    
+- [axios](https://github.com/axios/axios)
+- [styled-components](https://styled-components.com/)
+- [react-icons](https://react-icons.github.io/react-icons)
+- [react-router-dom](https://v5.reactrouter.com/)
+- [material-UI]([https://chakra-ui.com/](https://material.io/design))
 
 </div>
 
