@@ -23,7 +23,6 @@ https://satisfying-rail.surge.sh/
 <br>
 🔑 Senha: 1234567
 
-<br>
 
 <h1>
     <br>
