@@ -120,7 +120,7 @@ Siga os passos e inclua as informações abaixo:
 
 <h1>
     <br>
-    <p style=" font-weight: bold;">📌 Bibliotecas Utilizadas</p>
+    <p style=" font-weight: bold;">📚 Bibliotecas Utilizadas</p>
 </h1>
 
  <div style="display: inline_block"><br>
